@@ -3,4 +3,4 @@
 
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-octaviokerbs-blue)](https://www.linkedin.com/in/octavio-kerbs/)
-[![Linkedin Badge](https://img.shields.io/badge/Mail-kerbsod@gmail.com-red)](kerbsod@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Mail-kerbsod@gmail.com-red)](mailto:kerbsod@gmail.com)
